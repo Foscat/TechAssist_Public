@@ -20,7 +20,8 @@
     "react-native-voice": "^0.3.0",
     "react-native-xml2js": "^1.0.3",
     "rn-fetch-blob": "^0.10.16",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.1.27",
+    "ws": ">=3.3.1"
   },
   "devDependencies": {
     "@babel/core": "7.5.5",
