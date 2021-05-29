@@ -23,7 +23,7 @@
     "react-native-voice": "^0.3.0",
     "react-native-xml2js": "^1.0.3",
     "rn-fetch-blob": "^0.10.16",
-    "ws": ">=3.3.1",
+    "ws": ">=7.4.6",
     "xmldom": "^0.1.27"
   },
   "devDependencies": {
