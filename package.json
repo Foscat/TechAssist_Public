@@ -24,7 +24,7 @@
     "react-native-xml2js": "^1.0.3",
     "rn-fetch-blob": "^0.10.16",
     "ws": ">=3.3.1",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {
     "@babel/core": "7.5.5",
