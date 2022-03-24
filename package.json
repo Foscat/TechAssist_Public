@@ -15,7 +15,7 @@
     "aws-sdk": "^2.516.0",
     "fs": "0.0.1-security",
     "kind-of": ">=6.0.3",
-    "minimist": ">=1.2.3",
+    "minimist": ">=1.2.6",
     "react": "16.8.6",
     "react-native": "^0.62.1",
     "react-native-fs": "^2.14.1",
